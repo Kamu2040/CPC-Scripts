@@ -1,4 +1,4 @@
-$items = Import-Csv .\"CPC API/SafeList.csv"
+$items = Import-Csv .\SafeList.csv
 
 $results = foreach ($row in $items) {
     $name = $row.SafeName.Trim()
