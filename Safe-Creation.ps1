@@ -20,7 +20,7 @@ $results | Format-Table -AutoSize
 $tenantFQDN = "acme-lab-2528.privilegecloud.cyberark.cloud"
 $pvwaAPI    = "https://$tenantFQDN/PasswordVault/api"
 $username   = "mike@acme.corp"
-$password   = "Cyberark1"
+$password   = ""
 $safeName   = "APIDemoSafe"
 $adGroup    = "John@acme.corp"
 
