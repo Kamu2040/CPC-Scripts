@@ -1,0 +1,7 @@
+SafeName,Description,ManagingCPM,VersionsRetention
+D-BOS-DB-POS,"Safe for the Database exercise",ACME-CPM-PROD,5
+D-BOS-LIN-S-FIN,"Safe for Linux accounts",ACME-CPM-PROD,5
+D-BOS-LIN-S-LOGON,"Safe for Linux Logon accounts",ACME-CPM-PROD,5
+D-BOS-Web-pgAdmin,"Safe for the Web Application",ACME-CPM-PROD,5
+D-BOS-WIN-DOM,"Safe for the Windows Domain accounts",ACME-CPM-PROD,5
+P-BOS-WIN-S-LA-FIN,"Safe for the Windows Local accounts",ACME-CPM-PROD,5
